@@ -39,7 +39,7 @@ As a registered contractor to **Indian Oil Corporation Ltd (IOCL)**, I designed 
 
 | Project | What it does | Tech |
 |---|---|---|
-| [**RenewGrid**](https://github.com/santhosharun99/renewgrid) | Local-first monitoring, forecasting and fault detection for a rooftop solar plant, reading the inverter directly over Modbus | Python · Physics-guided ML |
+| [**RenewGrid**](https://github.com/santhosharun99/renewgrid) | Monitoring, forecasting and fault detection platform for commercial solar and wind plants, tested on a live rooftop installation over Modbus | Python · pvlib · LightGBM · Modbus |
 
 ## 🗺️ Geospatial
 
