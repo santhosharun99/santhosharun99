@@ -14,6 +14,7 @@ As a registered contractor to **Indian Oil Corporation Ltd (IOCL)**, I designed 
 
 | Project | What it does | Tech |
 |---|---|---|
+| [**Picklytics**](https://github.com/santhosharun99/picklytics) 🚧 *in development* | Pickleball performance analysis and scouting from match video: ball tracking, shots, placement, movement and coach reports. 29 matches analysed (TNPPL Season 2, US Open 2026, PPA Las Vegas, PPA Europe) | YOLO11 · PyTorch · OpenCV · Pose |
 | [**Cricket Ball Tracking**](https://github.com/santhosharun99/cricket-ball-tracking-cv) | Detects and tracks the ball in TV broadcast video, finds release and bounce, and estimates pitching length, speed and swing | YOLO26 · OpenCV · PyTorch |
 
 ## 🏏 Sports Analytics
